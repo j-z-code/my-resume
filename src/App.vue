@@ -6,6 +6,7 @@
 <li>HTML/CSS</li>
 <li>JavaScript 基础</li>
 <li>Vue 3(正在学习)</li>
+<li>CSS基础</li>
 </ul>
 </template>
 <style>
